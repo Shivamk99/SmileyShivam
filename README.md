@@ -1,5 +1,5 @@
 ### Hi I'm Shivam :smiley:
-`Full Stack Developer`
+Full Stack Developer
 
 ### Interested and pursuing skills related to
   - Web Development
