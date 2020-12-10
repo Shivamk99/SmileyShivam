@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi I'm Shivam :smiley:
+`Full Stack Developer`
 
-<!--
-**SmileyShivam/SmileyShivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interested and pursuing skills related to
+  - Web Development
+  - App Development
+  - UI/UX
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+ - [Portfolio](https://shivamk.netlify.app/)
+ - [Blogs](https://dev.to/smileyshivam)
+ - [LinkedIn](https://www.linkedin.com/in/shivam-kumar-1312771b5/)
+ - [IG](https://www.instagram.com/_toxic_smiley/)
