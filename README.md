@@ -7,7 +7,7 @@ Frontend Developer
   - UI/UX
 
 ## Connect with me
- - [Portfolio](https://shivamk.netlify.app/)
+ - [twitter](https://twitter.com/_toxic_smiley)
  - [Blogs](https://dev.to/smileyshivam)
  - [LinkedIn](https://www.linkedin.com/in/shivam-kumar-1312771b5/)
  - [IG](https://www.instagram.com/_toxic_smiley/)
