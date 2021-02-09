@@ -1,6 +1,6 @@
 ### Hi I'm Shivam :smiley:
-Full Stack Developer
-
+Frontend Developer
+  - currently working at [twimbit](https://twimbit.com/)
 ### Interested and pursuing skills related to
   - Web Development
   - App Development
