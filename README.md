@@ -1,4 +1,4 @@
-### Hi I'm Shivam <span class="wave">👋</span>:
+### Hi I'm Shivam 👋
 Frontend Developer
   - currently exploring at [twimbit](https://twimbit.com/)
 ### Interested and pursuing skills related to
