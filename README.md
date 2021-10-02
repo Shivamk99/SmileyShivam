@@ -16,10 +16,10 @@
   <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
   <code><img width="6%" src="https://cdn.worldvectorlogo.com/logos/graphql.svg"></code>
   <br />
-  <code><img width="6%" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></code>
-  <code><img width="6%" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></code>
-  <code><img width="6%" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"></code>
-  <code><img width="6%" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg"></code>
+  <code><img width="15%" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></code>
+  <code><img width="15%" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></code>
+  <code><img width="15%" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"></code>
+  <code><img width="15%" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
