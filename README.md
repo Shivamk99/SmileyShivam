@@ -25,7 +25,7 @@ Frontend Developer
 
 ## 📫 How to reach me: ...
 📫 [![Gmail Badge](https://img.shields.io/badge/-smileyshivam3042@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:smileyshivam3042@gmail.com)](smileyshivam3042@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/_toxic_smiley-FFFFFF?style=flat-roundedrectangle&logo=twitter&logoColor=white&link=https://twitter.com/_toxic_smiley)](https://twitter.com/_toxic_smiley)
+[![Twitter Badge](https://img.shields.io/badge/_toxic_smiley-FFFFFF?style=flat-roundedrectangle&logo=twitter&logoColor=blue&link=https://twitter.com/_toxic_smiley)](https://twitter.com/_toxic_smiley)
 
 
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
