@@ -34,7 +34,7 @@
   <br />
   <br />
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <code><img width="5%"   src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <code><img width="5%"   src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
