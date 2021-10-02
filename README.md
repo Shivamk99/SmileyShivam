@@ -25,14 +25,14 @@
   <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
 </a>
 
-
 ------
 
 ### 😜Here's a Joke for you:
 <img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
+------
 
-## 📫 How to reach me: ...
+## 📫 How to reach me:
 <p align="center">
 <a href="https://www.linkedin.com/in/shivam-kumar-1312771b5/" target="_blank">
   <img align="center" alt="Shivam Kumar | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
@@ -47,9 +47,6 @@
   <img align="center" alt="Shivam Kumar | Dev.to" width="26px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />
 </a> &nbsp;&nbsp;
 <p>
-
------
-
 
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
 
