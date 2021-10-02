@@ -12,9 +12,9 @@
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
-  <code><img width="6%" src="https://cdn.worldvectorlogo.com/logos/graphql.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>&nbsp;
+  <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>&nbsp;
+  <code><img width="6%" src="https://cdn.worldvectorlogo.com/logos/graphql.svg"></code>&nbsp;
   <br />
   <br />
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
