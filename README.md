@@ -17,8 +17,8 @@ Frontend Developer
 ### :smiley_cat: Currently exploring techies at [twimbit](http://twimbit.com/) as Front-end Developer
 
 ## By the way here are some of my statistics 🚀
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=Shivam Kumar&show_icons=true&theme=merko)](http://github.com/SmileyShivam/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam Kumar&layout=compact&theme=merko)](http://github.com/SmileyShivam/github-readme-stats)
+[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=smileyshivam&show_icons=true&theme=merko)](http://github.com/SmileyShivam/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smileyshivam&layout=compact&theme=merko)](http://github.com/SmileyShivam/github-readme-stats)
 
 🌱 I’m currently working on Next.js, Typescript, GraphQL with Nx and monorepo
 
