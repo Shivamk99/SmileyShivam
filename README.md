@@ -16,21 +16,23 @@
   <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
   <code><img width="6%" src="https://cdn.worldvectorlogo.com/logos/graphql.svg"></code>
   <br />
+  <code><img width="6%" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></code>
+  <code><img width="6%" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></code>
+  <code><img width="6%" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"></code>
+  <code><img width="6%" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <br />
   
+  <code><img width="15%" src="https://cdn.worldvectorlogo.com/logos/java-4.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="7%" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'></code>
   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  
-  <br />
+  <code><img width="15%" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
+  <code><img width="15%" src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg"></code>
 </p>
 
 ------
