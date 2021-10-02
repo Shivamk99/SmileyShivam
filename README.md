@@ -14,7 +14,7 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
-  <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/graphql.svg"></code>
+  <code><img width="6%" src="https://cdn.worldvectorlogo.com/logos/graphql.svg"></code>
   <br />
   
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
