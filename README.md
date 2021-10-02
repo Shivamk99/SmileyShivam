@@ -14,9 +14,7 @@ Frontend Developer
 
 <h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### :smiley_cat: Currently exploring techies at [twimbit](http://twimbit.com/)
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+### :smiley_cat: Currently exploring techies at [twimbit](http://twimbit.com/) as Front-end Developer
 
 ## By the way here are some of my statistics 🚀
 ![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=AkuraDiary&show_icons=true&theme=tokyonight)
@@ -27,7 +25,7 @@ Frontend Developer
 
 ## 📫 How to reach me: ...
 📫 [![Gmail Badge](https://img.shields.io/badge/-smileyshivam3042@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:smileyshivam3042@gmail.com)](smileyshivam3042@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/_toxic_smiley-E4405F?style=flat-roundedrectangle&logo=twitter&logoColor=white&link=https://twitter.com/_toxic_smiley)](https://twitter.com/_toxic_smiley)
+[![Twitter Badge](https://img.shields.io/badge/_toxic_smiley-FFFFFF?style=flat-roundedrectangle&logo=twitter&logoColor=white&link=https://twitter.com/_toxic_smiley)](https://twitter.com/_toxic_smiley)
 
 
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
