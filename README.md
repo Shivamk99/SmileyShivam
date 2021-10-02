@@ -21,18 +21,17 @@
   <code><img width="6%" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;
   <code><img width="6%" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg"></code>&nbsp;&nbsp;
   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <br />
-  
-  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/java-4.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="7%" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'></code>
+  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/java-4.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <code><img width="7%" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <br />
-  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
-  <code><img width="5%"   src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  <code><img width="5%"   src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg"></code>
+  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <code><img width="5%"   src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <code><img width="5%"   src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ------
