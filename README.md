@@ -35,7 +35,6 @@
 
 ------
 
-## 📫 How to reach me:
 <p align="center">
 <a href="https://www.linkedin.com/in/shivam-kumar-1312771b5/" target="_blank">
   <img align="center" alt="Shivam Kumar | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
