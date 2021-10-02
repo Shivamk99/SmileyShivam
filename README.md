@@ -17,8 +17,8 @@ Frontend Developer
 ### :smiley_cat: Currently exploring techies at [twimbit](http://twimbit.com/) as Front-end Developer
 
 ## By the way here are some of my statistics 🚀
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=smileyshivam&show_icons=true&theme=merko)](http://github.com/SmileyShivam/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smileyshivam&layout=compact&theme=merko)](http://github.com/SmileyShivam/github-readme-stats)
+[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=SmileyShivam&show_icons=true&theme=merko)](http://github.com/SmileyShivam/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmileyShivam&layout=compact&theme=merko)](http://github.com/SmileyShivam/github-readme-stats)
 
 🌱 I’m currently working on Next.js, Typescript, GraphQL with Nx and monorepo
 
@@ -29,24 +29,15 @@ Frontend Developer
 
 
 ## 📫 How to reach me: ...
-[![Gmail Badge](https://img.shields.io/badge/-smileyshivam3042@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:smileyshivam3042@gmail.com)](smileyshivam3042@gmail.com)
-[![Outlook Badge](https://img.shields.io/badge/-shivam@twimbit.com-blue?style=flat-roundedrectangle&logo=Outlook&logoColor=white&link=mailto:shivam@twimbit.com)](shivam@twimbit.com)
-[![Twitter Badge](https://img.shields.io/badge/_toxic_smiley-FFFFFF?style=flat-roundedrectangle&logo=twitter&logoColor=blue&link=https://twitter.com/_toxic_smiley)](https://twitter.com/_toxic_smiley)
 <p align="center">
-<a href="https://www.linkedin.com/in/dhanola/" target="_blank">
-  <img align="center" alt="Rahul Dhanola | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+<a href="https://www.linkedin.com/in/shivam-kumar-1312771b5/" target="_blank">
+  <img align="center" alt="Shivam Kumar | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://twitter.com/_DHANOLA" target="_blank">
-  <img align="center" alt="Rahul Dhanola | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+<a href="https://twitter.com/_toxic_smiley" target="_blank">
+  <img align="center" alt="Shivam Kumar | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/rahul_dhanola/" target="_blank">
-  <img align="center" alt="Rahul Dhanola | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:rahuldhanola31@gmail.com" >
-  <img align="center" alt="Rahul Dhanola | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100013628134596">
-    <img align="center" alt="Rahul Dhanola | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+<a href="mailto:smileyahivam3042@gmail.com" >
+  <img align="center" alt="Shivam Kumar | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <p>
 
