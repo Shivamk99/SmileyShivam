@@ -2,7 +2,7 @@
 
 ### :smiley_cat: Currently exploring techies at [twimbit](http://twimbit.com/) as Front-end Developer
 
-## By the way here are some of my statistics 🚀
+## :computer: My Tech
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmileyShivam&layout=compact&theme=merko)](http://github.com/SmileyShivam/github-readme-stats)
 
 🌱 I’m currently working on Next.js, Typescript, GraphQL with Nx and monorepo
