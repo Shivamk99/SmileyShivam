@@ -63,6 +63,3 @@
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
 
 ------
-Credit: [Shivam Kumar](http://github.com/SmileyShivam)
-
-Last Edited on: 02/10/2021
