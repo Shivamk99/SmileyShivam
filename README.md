@@ -40,7 +40,7 @@ Frontend Developer
   <img align="center" alt="Shivam Kumar | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://dev.to/smileyshivam" >
-  <img align="center" alt="Shivam Kumar | Dev.to" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Dev.svg" />
+  <img align="center" alt="Shivam Kumar | Dev.to" width="26px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />
 </a> &nbsp;&nbsp;
 <p>
 
