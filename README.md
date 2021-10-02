@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hey, Shivam here!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> </h1>
-<p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my undergraduation in the year 2021. <br>Soon, I would be joining New York University for Masters' of Computer Science program.</p>
+<p align="center" width="150px"> I have just kickstarted my career as a front-end developer at [twimbit](http://twimbit.com/) after completing my undergraduation in the year 2020.
 
 ### :smiley_cat: Currently exploring techies at [twimbit](http://twimbit.com/) as Front-end Developer
 
