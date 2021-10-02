@@ -30,9 +30,9 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="7%" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'></code>
   <br />
-  <code><img width="5%" height="5%" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
-  <code><img width="5%" height="5%"  src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  <code><img width="5%" height="5%"  src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg"></code>
+  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
+  <code><img width="5%"   src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+  <code><img width="5%"   src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg"></code>
 </p>
 
 ------
