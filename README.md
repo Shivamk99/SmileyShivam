@@ -45,7 +45,7 @@
 
 ------
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
-<p align="center">
+<p align="right">
 <a href="https://www.linkedin.com/in/shivam-kumar-1312771b5/" target="_blank">
   <img align="center" alt="Shivam Kumar | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
