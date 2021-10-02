@@ -26,6 +26,12 @@
 </a>
 
 
+------
+
+### 😜Here's a Joke for you:
+<img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+
 ## 📫 How to reach me: ...
 <p align="center">
 <a href="https://www.linkedin.com/in/shivam-kumar-1312771b5/" target="_blank">
@@ -42,14 +48,10 @@
 </a> &nbsp;&nbsp;
 <p>
 
+-----
 
 
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
-
-------
-
-### 😜Here's a Joke for you:
-<img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ------
 Credit: [Shivam Kumar](http://github.com/SmileyShivam)
