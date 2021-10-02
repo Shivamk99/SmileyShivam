@@ -1,9 +1,9 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/50996696/135711385-d623a98f-311f-4ad2-ab9b-a008398eb77b.jpg"></p>
-
 
 <h1 align="center">Hey, Shivam here!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> </h1>
 <p align="center" width="150px"> I have just kickstarted my career as a front-end developer after completing my undergraduation in the year 2020. </p> 
+
+<p align="center"><img src="https://user-images.githubusercontent.com/50996696/135711385-d623a98f-311f-4ad2-ab9b-a008398eb77b.jpg"></p>
 
 ------
 
