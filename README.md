@@ -19,7 +19,7 @@ Frontend Developer
 ## By the way here are some of my statistics 🚀
 ![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=smileyshivam&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=smileyshivam&theme=tokyonight" alt="mystreak"/>
-![Shivam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=tokyonight&layout=compact)
+![Shivam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smileyshivam&theme=tokyonight&layout=compact)
 
 🌱 I’m currently working on Next.js, Typescript, GraphQL with Nx and monorepo
 
