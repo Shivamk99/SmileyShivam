@@ -26,7 +26,7 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <br />
   
-  <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/java-4.svg"></code>
+  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/java-4.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="7%" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'></code>
   <br />
