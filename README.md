@@ -1,5 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/50996696/135711311-4be7eea0-12aa-406b-bb02-08fae2c6334a.jpg"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/50996696/135711385-d623a98f-311f-4ad2-ab9b-a008398eb77b.jpg"></p>
 
 
 <h1 align="center">Hey,Shivam here!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> </h1>
