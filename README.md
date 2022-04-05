@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 
 <h1 align="center">Hey, Shivam here!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> </h1>
-<p align="center" width="150px"> I have just kickstarted my career as a front-end developer after completing my undergraduation in the year 2020. </p> 
+<p align="center" width="150px"> I play with frontend everyday </p> 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/50996696/135711385-d623a98f-311f-4ad2-ab9b-a008398eb77b.jpg"></p>
 
@@ -26,16 +26,6 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <br />
-  <br />
-  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/java-4.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <code><img width="7%" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <br />
-  <br />
-  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <code><img width="5%"   src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ------
