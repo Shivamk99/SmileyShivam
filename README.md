@@ -39,7 +39,7 @@
 <a href="https://www.linkedin.com/in/shivam-kumar-1312771b5/" target="_blank">
   <img align="center" alt="Shivam Kumar | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://twitter.com/_toxic_smiley" target="_blank">
+<a href="https://twitter.com/shivam_tsx" target="_blank">
   <img align="center" alt="Shivam Kumar | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:smileyahivam3042@gmail.com" >
